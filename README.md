@@ -1,0 +1,2 @@
+# Others
+Store miscellaneous files.
